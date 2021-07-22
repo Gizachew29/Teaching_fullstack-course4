@@ -436,3 +436,4 @@ Browser Sync, among other things, provides a local server option. So, simply nav
     browser-sync start --server --directory --files "**/*"
 
 Of course, this assumes you installed browser-sync as was instructed in Module 1.
+
