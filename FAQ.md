@@ -23,6 +23,7 @@
   - [I’m making changes to my CSS and JavaScript and also running browser-sync, why aren’t my changes showing up in the browser?](#q-im-making-changes-to-my-css-and-javascript-and-also-running-browser-sync-why-arent-my-changes-showing-up-in-the-browser)
 
 ## Git
+
   - [I am unable to clone the github repo or upload my assignment](#q-i-am-unable-to-clone-the-github-repo-or-upload-my-assignment)
   - [While typing in my password during an attempt to push files to GitHub, nothing is showing up while I type.  What is going on?](#q-while-typing-in-my-password-during-an-attempt-to-push-files-to-github-nothing-is-showing-up-while-i-type--what-is-going-on)
   - [Why am I seeing “Please tell me who you are” when trying to commit to git?](#q-why-am-i-seeing-please-tell-me-who-you-are-when-trying-to-commit-to-git)
