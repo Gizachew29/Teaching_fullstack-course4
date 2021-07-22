@@ -32,6 +32,7 @@
   - [Where is the `gh-pages` branch?](#q-where-is-the-gh-pages-branch)
 
 ## HTML, CSS, and JavaScript
+
   - [My CSS is not loading for my web page, what is wrong?](#q--my-css-is-not-loading-for-my-web-page-what-is-wrong)
   - [I am using a responsive framework, and when I add the margins to the `div` elements, they flow beneath each other upon resizing the page. What am I doing wrong?](#q-i-am-using-a-responsive-framework-but-when-i-add-the-margins-to-the-div-elements-they-flow-beneath-each-other-upon-resizing-the-page-what-am-i-doing-wrong)
   - [When viewing my page in tablet mode (narrower screen width), my 'nav' button does not work.  What is wrong?](#q-when-viewing-my-page-in-tablet-mode-narrower-screen-width-my-nav-button-does-not-work--what-is-wrong)
