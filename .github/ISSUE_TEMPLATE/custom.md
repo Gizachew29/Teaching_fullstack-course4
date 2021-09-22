@@ -11,4 +11,3 @@ If you have a question or an issue, use the Coursera forum to ask that. Make the
 Questions posted here as issues will simply be closed.
 
 
-
