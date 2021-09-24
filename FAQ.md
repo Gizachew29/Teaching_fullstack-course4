@@ -8,7 +8,6 @@
   - [What is meant by a ‘path’?](#q-what-is-meant-by-a-path)
   - [The terminal is saying that it cannot find the path I supplied, what is going on?](#q-the-terminal-is-saying-that-it-cannot-find-the-path-i-supplied-what-is-going-on)
   - [I followed the instructions to setup my computer as presented in the video, but I am still having problems.  What could be wrong?](#q-i-followed-the-instructions-to-setup-my-computer-as-presented-in-the-video-but-i-am-still-having-problems--what-could-be-wrong)
-
 ## Sublime Text, browser-sync, and Other Course Tools
   - [I am unable to install browser-sync](#q-i-am-unable-to-install-browser-sync)
   - [How do I use the Sublime Text HTML shortcuts demonstrated in the lecture videos?](#q-how-do-i-use-the-sublime-text-html-shortcuts-demonstrated-in-the-lecture-videos)
