@@ -145,7 +145,6 @@ Lastly, though you may be running the same operating system as that shown in the
 
 ----------
 
-
 ### **Sublime Text, browser-sync, and Other Course Tools**
 
 
